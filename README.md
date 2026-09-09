@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
