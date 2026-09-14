@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
+| [0836-rectangle-overlap](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0836-rectangle-overlap) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3870-count-commas-in-range) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
