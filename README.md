@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
