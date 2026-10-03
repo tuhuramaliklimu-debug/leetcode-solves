@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
