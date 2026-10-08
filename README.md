@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3945-digit-frequency-score) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
 | ------- |
