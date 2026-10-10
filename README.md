@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
