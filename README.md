@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
