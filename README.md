@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
