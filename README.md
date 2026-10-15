@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1863-sum-of-all-subset-xor-totals) |
