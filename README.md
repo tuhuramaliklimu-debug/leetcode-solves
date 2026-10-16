@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3945-digit-frequency-score) |
@@ -214,8 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
