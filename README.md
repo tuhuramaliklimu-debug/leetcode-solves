@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3945-digit-frequency-score](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
