@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Enumeration
