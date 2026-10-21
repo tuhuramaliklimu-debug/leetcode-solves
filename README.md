@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
