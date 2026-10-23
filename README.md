@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
