@@ -183,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
