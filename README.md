@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
