@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3882-minimum-xor-path-in-a-grid) |
