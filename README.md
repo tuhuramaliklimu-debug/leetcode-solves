@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1096-brace-expansion-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/1267-count-servers-that-communicate) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tuhuramaliklimu-debug/linkdin-solves/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
